@@ -28,10 +28,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wham-js/touch-down-dance.git"
+    "url": "git+https://github.com/coleww/tom-from-space.git"
   },
   "bugs": {
-    "url": "https://github.com/wham-js/touch-down-dance/issues"
+    "url": "https://github.com/coleww/tom-from-space/issues"
   },
-  "homepage": "https://github.com/wham-js/touch-down-dance#readme"
+  "homepage": "https://github.com/coleww/tom-from-space#readme"
 }
