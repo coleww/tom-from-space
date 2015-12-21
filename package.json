@@ -1,0 +1,37 @@
+{
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "build": "browserify demo.js -o bundle.js",
+    "watch": "watchify demo.js -o bundle.js --debug --verbose"
+  },
+  "devDependencies": {
+    "tape": "^4.2.2",
+    "web-audio-mock": "^0.1.9",
+    "browserify": "^11.0.1",
+    "watchify": "^3.3.1"
+  },
+  "dependencies": {
+    "a-d-s-r": "^1.0.2",
+    "make-distortion-curve": "^1.0.0"
+  },
+  "name": "tom-from-space",
+  "description": "tom would like to add u to their friend net",
+  "keywords": [
+    "web audio",
+    "tom",
+    "myspace",
+    "drum"
+  ],
+  "author": "Cole Willsea <coleww@gmail.com> (http://colewillsea.com/)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wham-js/touch-down-dance.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wham-js/touch-down-dance/issues"
+  },
+  "homepage": "https://github.com/wham-js/touch-down-dance#readme"
+}

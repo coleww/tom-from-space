@@ -1,0 +1,1 @@
+console.error("Error: SyntaxError: Unexpected token } while parsing json file /Users/cole/projects/tom-from-space/package.json");
